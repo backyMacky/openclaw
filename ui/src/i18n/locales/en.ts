@@ -3031,7 +3031,6 @@ export const en: TranslationMap = {
     title: "Assistant sidebar",
     home: "Home",
     toggle: "Talk to your Home agent",
-    agent: "Home agent",
     openHome: "Open Home full page",
     close: "Close assistant sidebar",
     resize: "Resize assistant sidebar",
